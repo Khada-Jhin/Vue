@@ -1,0 +1,8 @@
+.fadee-enter-active,
+.fadee-leave-active {
+  transition: opacity 0.5s ease;
+}
+.fadee-enter-from,
+.fadee-leave-to {
+  opacity: 0;
+}
